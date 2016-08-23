@@ -1,0 +1,8 @@
+C:\develop\test_matrix_dongle\test_matrix_dongle\bin\Debug\test_matrix_dongle.exe
+C:\develop\test_matrix_dongle\test_matrix_dongle\bin\Debug\test_matrix_dongle.pdb
+C:\develop\test_matrix_dongle\test_matrix_dongle\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\develop\test_matrix_dongle\test_matrix_dongle\obj\x86\Debug\test_matrix_dongle.Properties.Resources.resources
+C:\develop\test_matrix_dongle\test_matrix_dongle\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\develop\test_matrix_dongle\test_matrix_dongle\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\develop\test_matrix_dongle\test_matrix_dongle\obj\x86\Debug\test_matrix_dongle.exe
+C:\develop\test_matrix_dongle\test_matrix_dongle\obj\x86\Debug\test_matrix_dongle.pdb
